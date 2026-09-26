@@ -17,4 +17,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Deployed Application
 
-Open [deployed application](https://users.metropolia.fi/~khushabk/custom-hooks/) to view it in the browser.
+Open [deployed application](https://users.metropolia.fi/~khushabk/forms/) to view it in the browser.
