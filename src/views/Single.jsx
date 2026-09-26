@@ -17,7 +17,11 @@ const Single = () => {
   return (
     <div>
       <h2>{item.title}</h2>
+
       <p>{item.description}</p>
+      <p>
+        <strong>Owner:</strong> {item.username}
+      </p>
 
       {item.media_type.includes('image') ? (
         <img src={item.filename} alt={item.title} />
@@ -35,4 +39,3 @@ const Single = () => {
 };
 
 export default Single;
-
